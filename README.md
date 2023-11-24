@@ -1,1 +1,1 @@
-Run all the cells in TaskIV.ipynb 
+Check the result here: ultralytics/yolo/v8/detect/test1.mp4
