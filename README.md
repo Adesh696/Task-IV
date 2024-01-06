@@ -2,5 +2,5 @@
 
 Check the result here: ultralytics/yolo/v8/detect/result_compressed_speed.mp4
 
-[![Watch the video](result_compressed_speed.mp4)](ultralytics/yolo/v8/detect/result_compressed_speed.mp4)
+[![Watch the video](ultralytics/yolo/v8/detect/result_compressed_speed.mp4)
 
